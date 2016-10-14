@@ -1,0 +1,49 @@
+Wrote data 23
+Read data 23 by thread 1
+Read data 23 by thread 3
+Read data 23 by thread 2
+Read data 23 by thread 4
+Read data 23 by thread 0
+Read data 23 by thread 5
+Wrote data 23
+Read data 23 by thread 1
+Read data 23 by thread 2
+Read data 23 by thread 0
+Read data 23 by thread 3
+Read data 23 by thread 4
+Wrote data 12
+Read data 23 by thread 5
+Read data 12 by thread 1
+Read data 12 by thread 2
+Read data 12 by thread 3
+Read data 12 by thread 0
+Wrote data 37
+Read data 12 by thread 4
+Read data 37 by thread 0
+Read data 37 by thread 1
+Read data 37 by thread 2
+Read data 12 by thread 5
+Wrote data 27
+Read data 37 by thread 4
+Read data 27 by thread 0
+Read data 37 by thread 5
+Read data 27 by thread 1
+Read data 37 by thread 3
+Read data 27 by thread 4
+Read data 27 by thread 3
+Read data 27 by thread 2
+Read data 27 by thread 5
+Wrote data 19
+Read data 19 by thread 0
+Read data 19 by thread 2
+Read data 19 by thread 1
+Read data 19 by thread 3
+Read data 19 by thread 4
+Wrote data 24
+Read data 19 by thread 5
+Read data 24 by thread 1
+Read data 24 by thread 2
+Read data 24 by thread 0
+Read data 24 by thread 3
+Read data 24 by thread 4
+Read data 24 by thread 5

@@ -1,0 +1,30 @@
+Wrote data 39
+Wrote data 16
+Read data 39 by thread 1
+Read data 16 by thread 1
+Read data 39 by thread 0
+Read data 16 by thread 0
+Wrote data 4
+Wrote data 8
+Read data 4 by thread 1
+Read data 8 by thread 1
+Read data 4 by thread 0
+Read data 8 by thread 0
+Wrote data 41
+Wrote data 27
+Read data 41 by thread 0
+Read data 41 by thread 1
+Read data 27 by thread 1
+Read data 27 by thread 0
+Wrote data 12
+Wrote data 18
+Read data 12 by thread 1
+Read data 18 by thread 1
+Read data 12 by thread 0
+Read data 18 by thread 0
+Wrote data 7
+Wrote data 37
+Read data 7 by thread 1
+Read data 37 by thread 1
+Read data 7 by thread 0
+Read data 37 by thread 0

@@ -1,0 +1,90 @@
+Wrote data 48
+Read data 48 by thread 0
+Read data 48 by thread 3
+Wrote data 3
+Read data 3 by thread 0
+Read data 3 by thread 3
+Wrote data 20
+Read data 48 by thread 1
+Read data 20 by thread 0
+Read data 20 by thread 3
+Read data 48 by thread 2
+Read data 3 by thread 2
+Read data 3 by thread 1
+Read data 20 by thread 1
+Read data 48 by thread 4
+Read data 20 by thread 2
+Wrote data 9
+Read data 9 by thread 0
+Read data 3 by thread 4
+Read data 20 by thread 4
+Read data 9 by thread 1
+Read data 9 by thread 3
+Read data 9 by thread 2
+Wrote data 38
+Read data 9 by thread 4
+Read data 38 by thread 0
+Read data 38 by thread 1
+Read data 38 by thread 3
+Wrote data 45
+Read data 38 by thread 4
+Read data 45 by thread 1
+Read data 45 by thread 3
+Wrote data 47
+Read data 45 by thread 4
+Read data 47 by thread 1
+Read data 47 by thread 3
+Read data 47 by thread 4
+Read data 38 by thread 2
+Read data 45 by thread 2
+Read data 47 by thread 2
+Read data 45 by thread 0
+Read data 47 by thread 0
+Wrote data 15
+Read data 15 by thread 0
+Read data 15 by thread 1
+Read data 15 by thread 2
+Read data 15 by thread 3
+Read data 15 by thread 4
+Wrote data 4
+Read data 4 by thread 0
+Read data 4 by thread 1
+Read data 4 by thread 2
+Read data 4 by thread 3
+Wrote data 8
+Read data 4 by thread 4
+Read data 8 by thread 0
+Read data 8 by thread 1
+Read data 8 by thread 2
+Wrote data 29
+Read data 8 by thread 4
+Read data 8 by thread 3
+Read data 29 by thread 0
+Read data 29 by thread 1
+Read data 29 by thread 2
+Read data 29 by thread 3
+Wrote data 18
+Read data 29 by thread 4
+Read data 18 by thread 0
+Read data 18 by thread 1
+Read data 18 by thread 2
+Read data 18 by thread 3
+Wrote data 1
+Read data 18 by thread 4
+Read data 1 by thread 0
+Read data 1 by thread 1
+Read data 1 by thread 2
+Read data 1 by thread 3
+Wrote data 48
+Read data 1 by thread 4
+Read data 48 by thread 0
+Read data 48 by thread 1
+Read data 48 by thread 2
+Read data 48 by thread 3
+Wrote data 11
+Read data 48 by thread 4
+Read data 11 by thread 0
+Read data 11 by thread 1
+Read data 11 by thread 2
+Read data 11 by thread 3
+Read data 11 by thread 4
